@@ -1,0 +1,35 @@
+#home {
+  background: #c1b799;
+  color: white;
+}
+
+.caixa {
+  padding: 60px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+h1 {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    color: ;
+    
+}
+
+input, textarea {
+    width: 400px;
+    padding: 30px;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+
+
